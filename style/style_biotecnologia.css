@@ -333,7 +333,7 @@ h4{
     margin-bottom: 16px;
     position: relative;
     padding-left: 16px;
-    text-aling: center;
+    text-align: center;
 }
 .titulo .color{
     display: inline-block;
@@ -481,6 +481,7 @@ p{
 .titulog{
     color: #b45d42;
     font-size: 39px;
+    text-align: center;
 }
 
 .imagen-lado-algebra{
