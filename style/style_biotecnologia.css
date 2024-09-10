@@ -481,7 +481,7 @@ p{
 .titulog{
     color: #b45d42;
     font-size: 39px;
-    text-align: center;
+    text-align: center !important;
 }
 
 .imagen-lado-algebra{
